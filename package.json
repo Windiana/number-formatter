@@ -1,0 +1,14 @@
+{
+  "name": "@username/my_npm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Myth Lady",
+  "license": "ISC",
+  "description": "",
+  "engines": {
+    "node": ">=6.4.0"
+  }
+}
